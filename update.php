@@ -60,7 +60,7 @@ if (count($_POST) != 0)
                                     </div>
 
                                     <button class="btn btn-outline-light btn-lg px-5" type="submit">Update</button>
-                                    <a href="display.php"> <input type="button" class="btn btn-outline-light btn-lg px-5" value='View List'> </a>
+                                    <a href="display.php"> <input type="button" class="btn btn-outline-light btn-lg px-5" value='List'> </a>
 
 
 
